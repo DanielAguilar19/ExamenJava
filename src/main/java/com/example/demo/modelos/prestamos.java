@@ -25,6 +25,7 @@ public class prestamos {
     private String fecha_apertura;
     private double monto;
     private double cuota;
+    private double interes;
     private int plazo;
 
     @JsonIgnore
